@@ -50,4 +50,4 @@ I am a Software Developer with practical experience in full-stack web developmen
 
 ## 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chetanvaidada)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=Chetanvaidada)](https://github.com/anuraghazra/github-readme-stats)
