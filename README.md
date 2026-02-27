@@ -50,4 +50,8 @@ I am a Software Developer with practical experience in full-stack web developmen
 
 ## 📊 GitHub Stats
 
-[![](https://github-readme-stats.vercel.app/api?username=Chetanvaidada)](https://github.com/anuraghazra/github-readme-stats)
+![](https://nirzak-streak-stats.vercel.app/?user=Chetanvaidada&theme=dark&hide_border=false)<br/>
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=Chetanvaidada&icon=8&color=0)](https://visitcount.itsvg.in)
