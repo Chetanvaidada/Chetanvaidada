@@ -48,10 +48,3 @@ I am a Software Developer with practical experience in full-stack web developmen
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="Cucumber" /></a>
 </p>
 
-## 📊 GitHub Stats
-
-![](https://nirzak-streak-stats.vercel.app/?user=Chetanvaidada&theme=dark&hide_border=false)<br/>
-
-
----
-[![](https://visitcount.itsvg.in/api?id=Chetanvaidada&icon=8&color=0)](https://visitcount.itsvg.in)
